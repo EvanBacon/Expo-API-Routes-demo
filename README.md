@@ -1,5 +1,7 @@
 # Expo Router v3 alpha demo
 
+> This is not production ready!
+
 Changes to the default template:
 
 - Disabled UNVERSIONED validation in export with `EXPO_SKIP_MANIFEST_VALIDATION_TOKEN` in `.env`.
